@@ -55,13 +55,14 @@ nav:
  - Mina Adrián
  - Nahuel Reneé
  - Rocio Riberi  
- - Silvina Camperi
+ - [Silvina Camperi](https://www.linkedin.com/in/silvina-camperi-6736568/)
  - Sofía Zunoffen
- - Translators from UNC Charlotte
- - Laura Viale
+
+**Translators from UNC Charlotte**
+ - [Laura Viale](https://www.linkedin.com/in/laura-viale/)
  
 **Editors/ Editores o Editoras**
- - Susana Cisneros
+ - [Susana Cisneros](https://www.linkedin.com/in/susana-cisneros-she-her-hers-ella-685b764b/)
  
 **Programmers from UNC Charlotte/ Programadores de UNC Charlotte**
  - [Denis Jacob Machado](https://phyloinformatics.com/members/Denis_Jacob_Machado.html)
