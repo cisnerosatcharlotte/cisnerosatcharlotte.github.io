@@ -10,7 +10,7 @@ description: Estación 10
   icon=""
   text="English"
   tooltip="For English click here"
-  link="stations/10_Parkwood_EN"
+  link="stations/10_parkwood_EN"
 
 %}
 {:.center}
