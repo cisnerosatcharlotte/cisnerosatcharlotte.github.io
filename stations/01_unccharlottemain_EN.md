@@ -34,21 +34,21 @@ Many resources and services are available for Spanish speakers at the University
 
 Several organizations that promote Hispanic community bonds on campus, as well as clubs that strengthen Spanish learners’ skills. Here is a list of all Hispanic and Latino/a/x organizations:
 
-- [Association of Latino Professional for America (ALPFA)](https://ninerengage.uncc.edu/organization/association-of-latino-professional-for-america)
-- [Brazilian Student Association](https://ninerengage.uncc.edu/organization/brasa)
-- [Caribbean Students Association](https://ninerengage.uncc.edu/organization/caribbean-students-association)
-- [Club de español para amigos (CEPA)](https://ninerengage.uncc.edu/organization/spanish-club-cepa)
-- [Corazones Unidos Siempre Chi Upsilon Sigma National Latin Sorority, Inc.](https://ninerengage.uncc.edu/organization/chiupsilonsigma)
-- [Hispanic College Awareness Program (HCAP)](https://ninerengage.uncc.edu/organization/hcapuncc)
-- [La Unidad Latina, Lambda Upsilon Lambda Fraternity Incorporated](https://ninerengage.uncc.edu/organization/launidadlatina)
-- [Lambda Theta Alpha Latin Sorority, Inc.](https://ninerengage.uncc.edu/organization/lambda-theta-alpha-latin-sorority-incorporated)
-- [Lambda Theta Phi Latin Fraternity, Inc.](https://ninerengage.uncc.edu/organization/lambda-theta-phi)
-- [Latin American Student Organization](https://ninerengage.uncc.edu/organization/latin-american-student-organization)
+- [Association of Latino Professional for America (ALPFA)](https://ninerengage.charlotte.edu/organization/association-of-latino-professional-for-america)
+- [Brazilian Student Association](https://ninerengage.charlotte.edu/organization/brasa)
+- [Caribbean Students Association](https://ninerengage.charlotte.edu/organization/caribbean-students-association)
+- [Club de español para amigos (CEPA)](https://ninerengage.charlotte.edu/organization/spanish-club-cepa)
+- [Corazones Unidos Siempre Chi Upsilon Sigma National Latin Sorority, Inc.](https://ninerengage.charlotte.edu/organization/chiupsilonsigma)
+- [Hispanic College Awareness Program (HCAP)](https://ninerengage.charlotte.edu/organization/hcapuncc)
+- [La Unidad Latina, Lambda Upsilon Lambda Fraternity Incorporated](https://ninerengage.charlotte.edu/organization/launidadlatina)
+- [Lambda Theta Alpha Latin Sorority, Inc.](https://ninerengage.charlotte.edu/organization/lambda-theta-alpha-latin-sorority-incorporated)
+- [Lambda Theta Phi Latin Fraternity, Inc.](https://ninerengage.charlotte.edu/organization/lambda-theta-phi)
+- [Latin American Student Organization](https://ninerengage.charlotte.edu/organization/latin-american-student-organization)
 - [Latinx /Hispanic Faculty and Staff Caucus](https://guides.library.charlotte.edu/c.php?g=1098008&p=8007492)
-- [Latinx Honor Society](https://ninerengage.uncc.edu/organization/latinxuncc)
-- [Latinx Student Union](https://ninerengage.uncc.edu/organization/latinxstudentunion)
+- [Latinx Honor Society](https://ninerengage.charlotte.edu/organization/latinxuncc)
+- [Latinx Student Union](https://ninerengage.charlotte.edu/organization/latinxstudentunion)
 - [Society for Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)](https://linktr.ee/sacnascharlotte)
-- [Society of Hispanic Professional Engineers](https://ninerengage.uncc.edu/organization/society-of-hispanic-professional-engineers)
+- [Society of Hispanic Professional Engineers](https://ninerengage.charlotte.edu/organization/society-of-hispanic-professional-engineers)
 
 {:.center}
 {%
