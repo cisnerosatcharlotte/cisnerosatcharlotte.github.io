@@ -71,6 +71,7 @@ nav:
 **Photographers/ Fotógrafas y Fotógrafos**
  - [Denis Jacob Machado](https://phyloinformatics.com/members/Denis_Jacob_Machado.html)
  - [Hanna Zeru](https://www.linkedin.com/in/hannahzeru/)
+ - [Laura Viale](https://www.linkedin.com/in/laura-viale/)
  - [Omkar Marne](https://phyloinformatics.com/members/Omkar_Marne.html)
  - [Regiane da Silva Ferreira Lima](https://www.linkedin.com/in/regiane-lima-713a53278/)
  - [Susana Cisneros](https://www.linkedin.com/in/susana-cisneros-she-her-hers-ella-685b764b/)
