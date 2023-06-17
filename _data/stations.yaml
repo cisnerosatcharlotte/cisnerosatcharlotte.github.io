@@ -1,0 +1,58 @@
+---
+name: First Last (ponoums)
+image: headshots/placeholder.jpg
+description: Placeholder Position
+role: pi
+aliases:
+  - First Last
+  - F Last
+  - F. Last
+  - Last, First
+  - Last, F
+  - Last, F.
+  
+  
+links:
+  home-page: myDomainName.com
+  email: username@domain.com
+  linkedin: userid
+  google-scholar: https://scholar.google.com/citations?user=USERID=en
+  twitter: userid
+
+---
+
+{%
+  include link.html
+  type="docs"
+  icon=""
+  text="Button 1"
+  tooltip="Describes what this button does"
+  link="https://en.wikipedia.org/wiki/HTTP_404"
+  style="button"
+%}
+{%
+  include link.html
+  type="docs"
+  icon=""
+  text="Button 2"
+  tooltip="Describes what this button does"
+  link="https://en.wikipedia.org/wiki/HTTP_404"
+  style="button"
+%}
+{:.center}
+
+Placeholder for some text describing this team member.
+
+# Highlights
+
+- Did this
+- Also did that
+
+# Experience
+
+## Date--Current
+
+**Placeholder position**, _Institution_, City--State, Country.
+
+- Some placeholder text
+- Something else

@@ -1,22 +1,34 @@
-# site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+### basic settings
+
+title: More than a train ride
+description: We apply computational intelligence, phylogenetics, and bioinformatics to make sense of multi-omics data and answer practical questions in One Health.
+logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
+url: https://yourDomainName.com
+
 
 # site social media and other links
-links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
 
-### jekyll settings
+# links:
+#   email: dmachado@uncc.edu
+#   google-scholar: Denis Jacob Machado
+#   github: machadodj
+#   twitter: machadodj_bio
+#   instagram: phyloinformatics
+#   youtube: channel/UCThn5Dman-FTCUWzvz8s9KQ
 
-# front matter defaults
+### advanced settings
+
+# automatic citations
+auto-cite:
+  plugins:
+    - name: sources
+      input:
+        - ../_data/sources.yaml
+  output: ../_data/citations.yaml
+
+# default front matter parameters for markdown files
 defaults:
   # all markdown files
   - scope:
@@ -29,44 +41,34 @@ defaults:
     values:
       layout: member
   # markdown files in /_posts
-  - scope:
-      type: "posts"
-    values:
-      layout: post
+#   - scope:
+#       type: "posts"
+#     values:
+#       layout: post
 
+# collections
 collections:
-  # generate page for each member
   members:
     output: true
-  # generate page for each post
-  posts:
-    output: true
-
-# jekyll plugins
-plugins:
-  - jekyll-spaceship
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jekyll-feed
-  - jekyll-last-modified-at
-
-# code block syntax highlighting
-highlighter: rouge
-
-# jekyll theme
-theme: null
 
 # sass settings
 sass:
-  sass_dir: _styles
+  sass_dir: css
 
-# force jekyll to include certain files/folders
-include:
-  - _styles
-  - _scripts
+# syntax highlighting
+highlighter: rouge
 
-# force jekyll to exclude certain files/folders
-exclude:
-  - README.md
-  - LICENSE.md
-  - CITATION.cff
+# plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-sitemap
+  # - jekyll-github-metadata
+  # - jekyll-avatar
+  # - jekyll-gist
+  # - jekyll-mentions
+  # - jekyll-relative-links
+  # - jemoji
+
+# jekyll theme
+theme: null

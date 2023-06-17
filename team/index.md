@@ -1,35 +1,76 @@
 ---
-title: Team
+title: Equipo/Team
 nav:
-  order: 3
-  tooltip: About our team
+  order: 2
+  tooltip: Our team and collaborators/ Nuestro equipo y colaboradoras
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# <i class="fas fa-users"></i>Equipo y Colaboradores / Team and Collaborators
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**Project Manager/ Gerente de proyecto** 
+ - Susana Cisneros - Senior Lecturer in Spanish, Languages and Culture Studies at UNC Charlotte Engaged Faculty Scholar 2022-2023 NC Campus Engagement 
 
-{% include section.html %}
+**Authors from UNC Charlotte/ Autores de UNC Charlotte**
+ - Abigail J. Robert
+ - Alexa F. Tokofsky
+ - Anabella R. Karriker
+ - Anna C. Marascio
+ - Beatriz Aguayo Moreno
+ - Corey A. Brenner
+ - Gabriel T. Oliphant
+ - Genesis Y. Chandler
+ - Giovanni A. Bass
+ - Jaden M. Villa
+ - Jalen R. London
+ - Jamie M. Roldan-Moquete
+ - Jessica C. Toukmaji
+ - John I. Barber
+ - Kejsi Zyka
+ - Kennedy L Carpenter
+ - Laura Scala
+ - Madison L. Ennis
+ - Michelle Rodriguez
+ - Nicholas S. Watson
+ - Nilaja L. Williams
+ - Obed Ramirez Garcia
+ - Olivia I. Hernandez
+ - Patricia Ortiz
+ - Rachel L. Welch
+ - Sydnee D. Eagle
+ - Sydni E. Wright
+ - Tanner D. Boone
+ - Trinity F. Turner
+ - Whytnee J. Hollingsworth
+ - Yanal Ammar
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+**Reviewers from UTN Facultad Regional Rafaela/ Revisores de la UTN Facultad Regional Rafaela** 
+ - Alex Berlincourt
+ - Bianca Culasso
+ - Carlo Meneghetti
+ - Federico Coria 
+ - Federico Zenklusen
+ - Julián Gervasoni 
+ - Karen Curbetti 
+ - Marcos Fioramonti 
+ - Mina Adrián
+ - Nahuel Reneé
+ - Rocio Riberi  
+ - Silvina Camperi
+ - Sofía Zunoffen
+ - Translators from UNC Charlotte
+ - Laura Viale
+ 
+**Editors/ Editores o Editoras**
+ - Susana Cisneros
+ 
+**Programmers from UNC Charlotte/ Programadores de UNC Charlotte**
+ - [Denis Jacob Machado](https://phyloinformatics.com/members/Denis_Jacob_Machado.html)
+ - [Omkar Marne](https://phyloinformatics.com/members/Omkar_Marne.html)
 
-{% include section.html background="images/background.jpg" dark=true %}
+**Photographers/ Fotógrafas y Fotógrafos**
+ - [Denis Jacob Machado](https://phyloinformatics.com/members/Denis_Jacob_Machado.html)
+ - [Hanna Zeru](https://www.linkedin.com/in/hannahzeru/)
+ - [Omkar Marne](https://phyloinformatics.com/members/Omkar_Marne.html)
+ - [Regiane da Silva Ferreira Lima](https://www.linkedin.com/in/regiane-lima-713a53278/)
+ - Susana Cisneros
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}

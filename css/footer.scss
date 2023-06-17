@@ -1,0 +1,54 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  padding: 40px;
+  color: $quartz-white;
+  background: $charlotte-green;
+  text-align: center;
+  box-shadow: $shadow;
+
+  & * {
+    font-family: $sans;
+  }
+
+  .footer_row {
+    margin-bottom:0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    line-height: $spacing + 0.3;
+
+    .link {
+      margin: 0;
+    }
+    
+  .footer_row img {
+    margin-left: 50px; 
+    margin-right: 50px;
+  }
+
+    &:hover .link {
+      opacity: 0.25;
+    }
+
+    .link:hover {
+      opacity: 1;
+    }
+  }
+
+  a {
+    color: currentColor;
+  }
+}

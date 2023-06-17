@@ -1,0 +1,27 @@
+// colors for links, tags, etc.
+// see colors.scss for available colors
+$accent: $charlotte-green;
+$light-accent: $charlotte-light-green;
+$dark-accent: $charlotte-dark-green;
+
+// font types
+// also see /_includes/fonts.html to change fonts
+$serif: "Una", serif; // font name, fallback font type
+$sans: "Roboto", sans-serif;
+$mono: "Ubuntu", monospace;
+
+// line spacing
+$spacing: 1.5;
+
+// transitions
+$fast: 0.25s ease;
+$slow: 0.5s ease;
+
+// effects
+$shadow: 0 0 5px 0 #00000030;
+
+// screen widths
+// used by various components
+$page: 900px; // max-width of the main page column
+$tablet: 800px; // screen width cutoff point for tablets
+$phone: 500px; // screen width cutoff point for phones
