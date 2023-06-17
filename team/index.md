@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-users"></i>Equipo y Colaboradores / Team and Collaborators
 
 **Project Manager/ Gerente de proyecto** 
- - Susana Cisneros - Senior Lecturer in Spanish, Languages and Culture Studies at UNC Charlotte Engaged Faculty Scholar 2022-2023 NC Campus Engagement 
+ - [Susana Cisneros](https://www.linkedin.com/in/susana-cisneros-she-her-hers-ella-685b764b/) - Senior Lecturer in Spanish, Languages and Culture Studies at UNC Charlotte Engaged Faculty Scholar 2022-2023 NC Campus Engagement 
 
 **Authors from UNC Charlotte/ Autores de UNC Charlotte**
  - Abigail J. Robert
@@ -73,5 +73,5 @@ nav:
  - [Hanna Zeru](https://www.linkedin.com/in/hannahzeru/)
  - [Omkar Marne](https://phyloinformatics.com/members/Omkar_Marne.html)
  - [Regiane da Silva Ferreira Lima](https://www.linkedin.com/in/regiane-lima-713a53278/)
- - Susana Cisneros
+ - [Susana Cisneros](https://www.linkedin.com/in/susana-cisneros-she-her-hers-ella-685b764b/)
 
