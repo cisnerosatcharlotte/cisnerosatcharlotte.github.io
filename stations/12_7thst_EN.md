@@ -10,18 +10,18 @@ description: Station 12
   icon=""
   text="Español"
   tooltip="Visita la página en Español"
-  link="stations/11_7thst_SP"
+  link="stations/12_7thst_SP"
 
 %}
 {:.center}
 {%
   include figure.html
-  image="images/maps/11.png"
+  image="images/maps/12.png"
   width="700px"
 %}
 {%
   include figure.html
-  image="images/pics/11.jpg"
+  image="images/pics/12.jpg"
   caption="7th St Station"
   width="700px"
 

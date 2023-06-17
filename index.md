@@ -140,10 +140,10 @@ Hay tres grupos específicos que se benefician directamente de este proyecto:
 {% capture text %}
 **Parkwood** es la estación número 10 en la ruta del tren/tren ligero.
 
-{% include link.html link="stations/10_Parkwood_SP" text="Haga clic aquí para más información" icon="fas fa-arrow-right" flip=true %}
+{% include link.html link="stations/10_parkwood_SP" text="Haga clic aquí para más información" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
-{% include feature.html image="images/snaps/10.png" link="stations/10_Parkwood_SP" title="ESTACIÓN 10: Parkwood" text=text flip=true %}
+{% include feature.html image="images/snaps/10.png" link="stations/10_parkwood_SP" title="ESTACIÓN 10: Parkwood" text=text flip=true %}
 
 <!--ESTACIÓN 11: 9th St-->
 

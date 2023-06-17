@@ -10,18 +10,18 @@ description: Station 10
   icon=""
   text="Español"
   tooltip="Visita la página en Español"
-  link="stations/09_25thst_SP"
+  link="stations/10_parkwood_SP"
 
 %}
 {:.center}
 {%
   include figure.html
-  image="images/maps/09.png"
+  image="images/maps/10.png"
   width="700px"
 %}
 {%
   include figure.html
-  image="images/pics/09.jpg"
+  image="images/pics/10.jpg"
   caption="Parkwood Station"
   width="700px"
 

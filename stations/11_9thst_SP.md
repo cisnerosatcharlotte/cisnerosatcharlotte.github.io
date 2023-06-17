@@ -10,18 +10,18 @@ description: Estación 11
   icon=""
   text="English"
   tooltip="For English click here"
-  link="stations/10_9thst_EN"
+  link="stations/11_9thst_EN"
 
 %}
 {:.center}
 {%
   include figure.html
-  image="images/maps/10.png"
+  image="images/maps/11.png"
   width="700px"
 %}
 {%
   include figure.html
-  image="images/pics/10.jpg"
+  image="images/pics/11.jpg"
   caption="Estación 9th St"
   width="700px"
 

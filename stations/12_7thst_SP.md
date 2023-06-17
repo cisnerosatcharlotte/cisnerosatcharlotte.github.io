@@ -10,18 +10,18 @@ description: Estación 12
   icon=""
   text="English"
   tooltip="For English click here"
-  link="stations/11_7thst_EN"
+  link="stations/12_7thst_EN"
 
 %}
 {:.center}
 {%
   include figure.html
-  image="images/maps/11.png"
+  image="images/maps/12.png"
   width="700px"
 %}
 {%
   include figure.html
-  image="images/pics/11.jpg"
+  image="images/pics/12.jpg"
   caption="Estación 7th St"
   width="700px"
 
