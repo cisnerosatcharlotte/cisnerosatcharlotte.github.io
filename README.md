@@ -1,46 +1,34 @@
-Visit **[cisnerosatcharlotte.github.io/mtatr](https://cisnerosatcharlotte.github.io/mtatr)** 🚀
+Visit **[github.com/cisnerosatcharlotte/cisnerosatcharlotte.github.io]https://github.com/cisnerosatcharlotte/cisnerosatcharlotte.github.io)** 🚀
 
-![GitHub last commit](https://img.shields.io/github/last-commit/  greenelab/lab-website-template)
+# Project Leader
 
-<h1 align="center">Lab Website Template</h1>
-<p align="center">
-<img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/favicons/share-thumbnail.jpg?raw=true" alt="Lab Website Template">
-</p>
-An easy-to-use, flexible website template for labs, including automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel and more time running your lab.
+This is a project by Professor Susana Cisneros. [Click here](https://www.linkedin.com/in/susana-cisneros-she-her-hers-ella-685b764b/) to see Professor Susana's LinkedIn profile.
 
-#### 🔔 Still in pre-release/preview. We need testers! 🔔
+# More Than A Train Ride
 
-Please help us out!
-How easy is the template to use?
-How flexible is it?
-How's our documentation?
+**More Than A Train Ride** is a community-based project carried out by UNC students, sponsored by NC Campus Engagement and in collaboration with the Levine Museum of the New South.
 
-## Features
+Charlotte has a large population of Spanish speakers from different countries and regions each one with a vast diversity in traditions, customs, accents, slang, etc.
 
-- **Automatically generated citations** (using [Manubot](https://manubot.org)) from **just an identifier** (DOI, PubMed ID, and many more)
-- Automatically pull in and display tags from GitHub repositories
-- Works and looks good on all major desktop and mobile browsers
-- A suite of pre-built components:
-  - formatted tables and code blocks
-  - social media links with icons
-  - figures with captions
-  - image galleries
-  - multi-size cards with image and text
-  - citations
-  - ...and many more!
-- A **home page**, where you can highlight the most important things that make your lab special
-- A **research page**, with a sorted, searchable list of all your published works
-- A **tools page**, where you can show off your software, datasets, or other useful things
-- A **team** page, compiled automatically from individual members
-- Individual **team member pages** with bios, assignable roles, and social media links
-- A **blog page**, with a sorted, grouped, tagged list of all your posts
+It is crucial to highlight the contribution of the LatinX community in different areas such as small and mid-size businesses that promote economic development, access to legal, medical, and cultural resources as well as leadership at different levels, among others.
 
-## Gallery
+It is just and fair to give visibility and validation to the Spanish speaker heroes who with their daily efforts support the economic and cultural development of our city.
+The population of UNC Charlotte has begun to mirror that of the greater Charlotte region. Therefore,
 
-[🖼️ See who else is using the template and what it can do!](https://github.com/greenelab/lab-website-template/wiki/Gallery)
+## **The project goals**
+- Students explore the city of Charlotte and learn about the Blue Line light rail's access to services and resources within walking distance where Spanish is spoken.
+- Students experience the public transportation in Charlotte and its relationship with services and resources and pay close attention to the access to food, health, art, education, legal services or faith practices, business, or professional development where Spanish is spoken.
+- Students learn about economic mobility, language capital, public and private transportation, and the price of time.
 
-## Documentation
+## **Who benefits?**
+There are three specific groups that will benefit directly from this project:
+-       Students learning Spanish who are carrying out the project, by having a hand on experience and can appreciate it in the future.
+-       Charlotte citizens who would be able to access information on services and resources by the light rail in Spanish and English.
+-       The global community who would be able to access the information on The Levine Museum of the New South website.
+
+# Greene Lab's Lab Website Template
+
+We are thankful to the Greene Lab's Lab Website Template. Our code is strongly based on their.
 
 [▶️ Get Started](https://github.com/greenelab/lab-website-template/wiki/Get-Started)
 
@@ -59,36 +47,3 @@ How's our documentation?
 [💡 Tips](https://github.com/greenelab/lab-website-template/wiki/Tips)
 
 [❓ Support](https://github.com/greenelab/lab-website-template/wiki/Support)
-
----
-
-# Run Locally
-
-Source: [click here](https://github.com/greenelab/lab-website-template/wiki/Advanced-Editing).
-
-## Build site locally
-
-Normally your site is built automatically on GitHub if you're using [one of the standard workflows](https://github.com/greenelab/lab-website-template/wiki/Get-Started#edit-your-site). But if you want to preview changes to your site before pushing them to your GitHub repo for all to see, you can follow these steps to build and run the site on your computer. Most people wont need or want to do this.
-
-1. [Install Ruby v3+](https://www.ruby-lang.org/en/documentation/installation/) (on Windows, use the [installer](https://rubyinstaller.org/downloads/) and the recommended version with the Devkit).
-2. [Install Bundler](https://bundler.io/) by running `gem install bundler.
-3. [Install Jekyll] by running `gem install jekyll`.
-4. Go to the folder where you cloned your site, e.g. `cd your-lab-website`.
-5. Bundle the site by running `bundle`.
-6. Start the site by running `bundle exec jekyll serve --open-url --livereload --trace`.
-
-If you're on Windows and getting errors, see [this thread](https://github.com/oneclick/rubyinstaller2/issues/96).
-
-The site should automatically open in a browser. Any changes you make should automatically rebuild the site and refresh the page, except for changes to _config.yaml which require re-running the start command.
-
-## Build citations locally
-
-Normally your citations are built automatically on GitHub if you're using [one of the standard workflows](https://github.com/greenelab/lab-website-template/wiki/Get-Started#edit-your-site). But if you want to preview changes to your citations before pushing them to your GitHub repo for all to see, or GitHub is having problems generating the citations, you can follow these steps to run the automatic citation process on your computer. Most people wont need or want to do this.
-
-1. [Install Python](https://www.python.org/downloads/) (with PIP).
-2. Go to the folder where you cloned your site, e.g. `cd your-lab-website`.
-3. Install needed Python packages by running `python -m pip install --upgrade --requirement ./auto-cite/requirements.txt`.
-4. Add or change the desired `sources/papers` in `/_data/sources.yaml`.
-5. Generate citations by running python `./auto-cite/auto-cite.pyRi.
-
-Citations should be automatically generated and output to `/_data/citations.yaml.
