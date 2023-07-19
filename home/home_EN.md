@@ -24,13 +24,14 @@ The population of UNC Charlotte has begun to mirror that of the greater Charlott
 
 
 ### **The project goals**
-- Students explore the city of Charlotte and learn about the Blue Line light rail's access to services and resources within walking distance where Spanish is spoken.
-- Students experience the public transportation in Charlotte and its relationship with services and resources and pay close attention to the access to food, health, art, education, legal services or faith practices, business, or professional development where Spanish is spoken.
-- Students learn about economic mobility, language capital, public and private transportation, and the price of time.
+**That the students:**
+- explore the city of Charlotte and learn about the Blue Line light rail's access to services and resources within walking distance where Spanish is spoken.
+- experience the public transportation in Charlotte and its relationship with services and resources and pay close attention to the access to food, health, art, education, legal services or faith practices, business, or professional development where Spanish is spoken.
+- learn about economic mobility, language capital, public and private transportation, and the value of time.
 
 ### **Who benefits?**
 There are three specific groups that will benefit directly from this project:
--       Students learning Spanish who are carrying out the project, by having a hand on experience and can appreciate it in the future.
+-       Students learning Spanish who are carrying out the project, by having hands-on experiences, and they will be able to appreciate it in the future.
 -       Charlotte citizens who would be able to access information on services and resources by the light rail in Spanish and English.
 -       The global community who would be able to access the information on The Levine Museum of the New South website.
 
