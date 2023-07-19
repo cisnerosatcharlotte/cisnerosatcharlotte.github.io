@@ -29,7 +29,7 @@ description: Station 7
 
 
 
-The 7th light train station is Sugar Creek. This station has an open space as well as covered seats in case of bad weather. Sugar Creek station also has security cameras to record the station activities. The train rail is at ground level, so there are no stairs. The station has access  for people with disabilities and many  bicycle racks. For emergencies, you can use an emergency call box. The station also has automatic audio announcements to notify when the train is arriving and other important information. The station has a lot of lights and a parking garage, which is spacious and has an elevator. At the station you can contemplate beautiful public works of art. 
+The 7th station along the Lynx Blue Line is Sugar Creek station. This station has an open space as well as covered seats in case of bad weather. Sugar Creek station also has security cameras to record the station activities for passenger safety. The train rail is at ground level, so there are no stairs. The station has access  for people with disabilities and many  bicycle racks. For emergencies, you can use the emergency call box. The station also has automatic audio announcements to notify when the train is arriving and other important information in English as well as in Spanish. The station has a lot of lighting and a parking garage, which is spacious and has an elevator. At the station, you can contemplate beautiful public works of art. 
 
 {:.center}
 {%
