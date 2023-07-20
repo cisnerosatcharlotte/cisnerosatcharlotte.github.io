@@ -20,7 +20,7 @@ title: Homepage
 Charlotte has a large population of Spanish speakers from different countries and regions each one with a vast diversity in traditions, customs, accents, slang, etc.
 It is crucial to highlight the contribution of the LatinX community in different areas such as small and mid-size businesses that promote economic development, access to legal, medical, and cultural resources as well as leadership at different levels, among others.
 It is just and fair to give visibility and validation to the Spanish speaker heroes who with their daily efforts support the economic and cultural development of our city.
-The population of UNC Charlotte has begun to mirror that of the greater Charlotte region. Therefore,
+The population of UNC Charlotte has begun to mirror that of the greater Charlotte region. 
 
 
 ### **The project goals**
