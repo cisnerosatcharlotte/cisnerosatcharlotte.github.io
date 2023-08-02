@@ -16,7 +16,7 @@ title: Homepage
 
 # What is More Than A Train Ride? – Description
 
-**More Than A Train Ride** is a community-based project carried out by UNC students, sponsored by NC Campus Engagement and in collaboration with the Levine Museum of the New South.
+**More Than A Train Ride** is a community-based project carried out by University of North Carolina Charlotte students, sponsored by NC Campus Engagement and in collaboration with the Levine Museum of the New South.
 Charlotte has a large population of Spanish speakers from different countries and regions each one with a vast diversity in traditions, customs, accents, slang, etc.
 It is crucial to highlight the contribution of the LatinX community in different areas such as small and mid-size businesses that promote economic development, access to legal, medical, and cultural resources as well as leadership at different levels, among others.
 It is just and fair to give visibility and validation to the Spanish speaker heroes who with their daily efforts support the economic and cultural development of our city.
@@ -24,14 +24,15 @@ The population of UNC Charlotte has begun to mirror that of the greater Charlott
 
 
 ### **The project goals**
-**That the students:**
+**For UNC Charlotte students to:**
 - explore the city of Charlotte and learn about the Blue Line light rail's access to services and resources within walking distance where Spanish is spoken.
 - experience the public transportation in Charlotte and its relationship with services and resources and pay close attention to the access to food, health, art, education, legal services or faith practices, business, or professional development where Spanish is spoken.
 - learn about economic mobility, language capital, public and private transportation, and the value of time.
 
 ### **Who benefits?**
 There are three specific groups that will benefit directly from this project:
--       Students learning Spanish who are carrying out the project, by having hands-on experiences, and they will be able to appreciate it in the future.
+-       UNC Charlotte students learning Spanish who are carrying out the project, by having hands-on experiences, and they will be able to appreciate it in the future.
+-       The University community from having deepened relationships, knowledge, and civic experiences. 
 -       Charlotte citizens who would be able to access information on services and resources by the light rail in Spanish and English.
 -       The global community who would be able to access the information on The Levine Museum of the New South website.
 
