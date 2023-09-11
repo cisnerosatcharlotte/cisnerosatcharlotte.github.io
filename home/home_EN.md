@@ -234,7 +234,7 @@ There are four specific groups that will benefit directly from this project:
 {% include link.html link="stations/19_newbern_SP" text="Click here for more information" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
-{% include feature.html image="images/snaps/19.png" link="stations/19_newbern_SP" title="STATION 19 New Bern" text=text %}
+{% include feature.html image="images/snaps/19.png" link="stations/19_newbern_SP" title="STATION 19: New Bern" text=text %}
 
 <!--STATION 20: Scaleybark-->
 
@@ -244,7 +244,7 @@ There are four specific groups that will benefit directly from this project:
 {% include link.html link="stations/20_scaleybark_SP" text="Click here for more information" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
-{% include feature.html image="images/snaps/20.png" link="stations/20_scaleybark_SP" title="STATION 20 Scaleybark" text=text flip=true %}
+{% include feature.html image="images/snaps/20.png" link="stations/20_scaleybark_SP" title="STATION 20: Scaleybark" text=text flip=true %}
 
 <!--STATION 21: Woodlawn-->
 
@@ -254,7 +254,7 @@ There are four specific groups that will benefit directly from this project:
 {% include link.html link="stations/21_Woodlawn_SP" text="Click here for more information" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
-{% include feature.html image="images/snaps/21.png" link="stations/21_Woodlawn_SP" title="STATION 21 Woodlawn" text=text %}
+{% include feature.html image="images/snaps/21.png" link="stations/21_Woodlawn_SP" title="STATION 21: Woodlawn" text=text %}
 
 <!--STATION 22: Tyvola-->
 
@@ -264,7 +264,7 @@ There are four specific groups that will benefit directly from this project:
 {% include link.html link="stations/22_tyvola_SP" text="Click here for more information" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
-{% include feature.html image="images/snaps/22.png" link="stations/22_tyvola_SP" title="STATION 22 Tyvola" text=text flip=true %}
+{% include feature.html image="images/snaps/22.png" link="stations/22_tyvola_SP" title="STATION 22: Tyvola" text=text flip=true %}
 
 <!--STATION 23: Archdale-->
 
