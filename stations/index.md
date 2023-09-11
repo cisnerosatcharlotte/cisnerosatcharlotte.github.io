@@ -55,7 +55,7 @@ nav:
 {% endcapture %}
 {% include feature.html image="images/snaps/03.png" link="stations/03_mccullough_SP" title="ESTACIÓN 3: Mccullough" text=text%}
 
-<!-- ESTACIÓN 4 : University City Blvd -->
+<!-- ESTACIÓN 4: University City Blvd -->
 
 {% capture text %}
 **University City Blvd** es la estación número 4 en la ruta del tren/tren ligero.
