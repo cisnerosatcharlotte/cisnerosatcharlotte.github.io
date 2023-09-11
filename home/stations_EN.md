@@ -187,7 +187,7 @@ title: "STATIONS: Homepage
 {% capture text %}
 **Bland Station** is station number 17 on the train/light rail route.
 
-{% include link.html link="stations/17_bland_SP" text="haga clic aquí" icon="fas fa-arrow-right" flip=true %}
+{% include link.html link="stations/17_bland_SP" text="Click here for more information" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
 {% include feature.html image="images/snaps/17.png" link="stations/17_bland_SP" title="STATION 17: Bland Station" text=text %}
@@ -210,7 +210,7 @@ title: "STATIONS: Homepage
 {% include link.html link="stations/19_newbern_SP" text="Click here for more information" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
-{% include feature.html image="images/snaps/19.png" link="stations/19_newbern_SP" title="STATION 19 New Bern" text=text %}
+{% include feature.html image="images/snaps/19.png" link="stations/19_newbern_SP" title="STATION 19: New Bern" text=text %}
 
 <!--STATION 20: Scaleybark-->
 
@@ -220,7 +220,7 @@ title: "STATIONS: Homepage
 {% include link.html link="stations/20_scaleybark_SP" text="Click here for more information" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
-{% include feature.html image="images/snaps/20.png" link="stations/20_scaleybark_SP" title="STATION 20 Scaleybark" text=text flip=true %}
+{% include feature.html image="images/snaps/20.png" link="stations/20_scaleybark_SP" title="STATION 20: Scaleybark" text=text flip=true %}
 
 <!--STATION 21: Woodlawn-->
 
@@ -230,7 +230,7 @@ title: "STATIONS: Homepage
 {% include link.html link="stations/21_Woodlawn_SP" text="Click here for more information" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
-{% include feature.html image="images/snaps/21.png" link="stations/21_Woodlawn_SP" title="STATION 21 Woodlawn" text=text %}
+{% include feature.html image="images/snaps/21.png" link="stations/21_Woodlawn_SP" title="STATION 21: Woodlawn" text=text %}
 
 <!--STATION 22: Tyvola-->
 
@@ -240,7 +240,7 @@ title: "STATIONS: Homepage
 {% include link.html link="stations/22_tyvola_SP" text="Click here for more information" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
-{% include feature.html image="images/snaps/22.png" link="stations/22_tyvola_SP" title="STATION 22 Tyvola" text=text flip=true %}
+{% include feature.html image="images/snaps/22.png" link="stations/22_tyvola_SP" title="STATION 22: Tyvola" text=text flip=true %}
 
 <!--STATION 23: Archdale-->
 
