@@ -133,7 +133,7 @@ Hay tres grupos específicos que se benefician directamente de este proyecto:
 {% include link.html link="stations/09_25thst_SP" text="Haga clic aquí para más información" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
-{% include feature.html image="images/snaps/09.png" link="stations/09_25thst_SP" title="ESTACIÓN 9: 2s5th St" text=text %}
+{% include feature.html image="images/snaps/09.png" link="stations/09_25thst_SP" title="ESTACIÓN 9: 25th St" text=text %}
 
 <!--ESTACIÓN 10: Parkwood-->
 
