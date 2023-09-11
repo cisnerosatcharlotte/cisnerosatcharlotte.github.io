@@ -156,7 +156,7 @@ There are four specific groups that will benefit directly from this project:
 {% endcapture %}
 {% include feature.html image="images/snaps/11.png" link="stations/11_9thst_SP" title="STATION 11: 9th St" text=text %}
 
-<!--STATION 12 7th St-->
+<!--STATION 12: 7th St-->
 
 {% capture text %}
 **7th St** is station number 12 on the train/light rail route.
