@@ -211,7 +211,7 @@ There are four specific groups that will benefit directly from this project:
 {% capture text %}
 **Bland Station** is station number 17 on the train/light rail route.
 
-{% include link.html link="stations/17_bland_SP" text="haga clic aquí" icon="fas fa-arrow-right" flip=true %}
+{% include link.html link="stations/17_bland_SP" text="Click here for more information" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
 {% include feature.html image="images/snaps/17.png" link="stations/17_bland_SP" title="STATION 17: Bland Station" text=text %}
