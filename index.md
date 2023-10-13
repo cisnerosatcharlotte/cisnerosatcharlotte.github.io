@@ -31,8 +31,9 @@ La población de UNC Charlotte refleja hoy en día a la población de la ciudad 
 
 ## **¿Quiénes se benefician?**
 Hay tres grupos específicos que se benefician directamente de este proyecto:
-- Los estudiantes aprendices de español que llevan a cabo el proyecto, ya que accederán al conocimiento empírico y podrán valorar su experiencia en el futuro.
-- Los ciudadanos de la ciudad de Charlotte que podrán utilizar la información sobre los servicios y recursos a lo largo del tren.
+- Los estudiantes aprendices de español de UNC Charlotte que llevan a cabo el proyecto, ya que acceden al conocimiento empírico y podrán valorar su experiencia en el futuro.
+- La comunidad universitaria profundiza sus relaciones, conocimientos y experiencia cívia.
+- Los ciudadanos de la ciudad de Charlotte que podrán utilizar la información sobre los servicios y recursos a lo largo del tren en ambos idiomas.
 - La comunidad en general que podrán acceder a la información a través de la página del The Levine Museum of the New South.
 
 <!--Banner-->
