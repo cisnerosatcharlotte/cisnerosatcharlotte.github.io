@@ -24,6 +24,7 @@ La población de UNC Charlotte refleja hoy en día a la población de la ciudad 
 
 
 ## **Objetivos del proyecto**
+Para que los estudiantes de UNC Charlotte
 - Exploren la ciudad de Charlotte y aprendan sobre los servicios y recursos en español a lo largo del Tren Ligero Línea Azul o a una distancia a pie.
 - Experimenten el servicio público en Charlotte mientras observan con atención la relación en materia de acceso a comida, salud, arte, educación, servicios legales o prácticas de servicios religiosos, negocios o centros de desarrollo profesional en español.
 - Entiendan el impacto de la movilidad económica, el capital lingüístico, el transporte público y privado y el valor del tiempo.
