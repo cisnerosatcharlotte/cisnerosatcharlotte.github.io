@@ -1,5 +1,5 @@
 ---
-name: Scaleybark Station
+name: Scaley Bark Station
 image: headshots/placeholder.jpg
 description: Station 20
 ---
