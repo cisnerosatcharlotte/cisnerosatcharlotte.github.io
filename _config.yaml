@@ -21,12 +21,12 @@ url: https://yourDomainName.com
 ### advanced settings
 
 # automatic citations
-#auto-cite:
-# plugins:
-#   - name: sources
-#     input:
-#       - ../_data/sources.yaml
-# output: ../_data/citations.yaml
+auto-cite:
+  plugins:
+    - name: sources
+      input:
+        - ../_data/sources.yaml
+  output: ../_data/citations.yaml
 
 # default front matter parameters for markdown files
 defaults:
