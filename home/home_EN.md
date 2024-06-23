@@ -31,10 +31,10 @@ The population of UNC Charlotte has begun to mirror that of the greater Charlott
 
 ### **Who benefits?**
 There are four specific groups that will benefit directly from this project:
--       UNC Charlotte students learning Spanish who are carrying out the project, by having hands-on experiences, and they will be able to appreciate it in the future.
--       The University community from having deepened relationships, knowledge, and civic experiences. 
--       Charlotte citizens who would be able to access information on services and resources by the light rail in Spanish and English.
--       The global community who would be able to access the information on The Levine Museum of the New South website.
+- UNC Charlotte students learning Spanish who are carrying out the project, by having hands-on experiences, and they will be able to appreciate it in the future.
+- The University community from having deepened relationships, knowledge, and civic experiences. 
+- Charlotte citizens who would be able to access information on services and resources by the light rail in Spanish and English.
+- The global community who would be able to access the information on The Levine Museum of the New South website.
 
 <!--Banner-->
 

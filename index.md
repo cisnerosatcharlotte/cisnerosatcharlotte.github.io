@@ -24,16 +24,18 @@ La población de UNC Charlotte refleja hoy en día a la población de la ciudad 
 
 
 ## **Objetivos del proyecto**
+Para que los estudiantes de UNC Charlotte:
 - Exploren la ciudad de Charlotte y aprendan sobre los servicios y recursos en español a lo largo del Tren Ligero Línea Azul o a una distancia a pie.
 - Experimenten el servicio público en Charlotte mientras observan con atención la relación en materia de acceso a comida, salud, arte, educación, servicios legales o prácticas de servicios religiosos, negocios o centros de desarrollo profesional en español.
 - Entiendan el impacto de la movilidad económica, el capital lingüístico, el transporte público y privado y el valor del tiempo.
 
 
 ## **¿Quiénes se benefician?**
-Hay tres grupos específicos que se benefician directamente de este proyecto:
-- Los estudiantes aprendices de español que llevan a cabo el proyecto, ya que accederán al conocimiento empírico y podrán valorar su experiencia en el futuro.
-- Los ciudadanos de la ciudad de Charlotte que podrán utilizar la información sobre los servicios y recursos a lo largo del tren.
-- La comunidad en general que podrán acceder a la información a través de la página del The Levine Museum of the New South.
+Hay cuatro grupos específicos que se benefician directamente de este proyecto:
+- Los estudiantes aprendices de español de UNC Charlotte que llevan a cabo el proyecto, ya que acceden al conocimiento empírico y podrán valorar su experiencia en el futuro.
+- La comunidad universitaria profundiza sus relaciones, conocimientos y experiencia cívia.
+- Los ciudadanos de la ciudad de Charlotte que podrán utilizar la información sobre los servicios y recursos a lo largo del tren en ambos idiomas.
+- La comunidad global que podría acceder a la información en el sitio web del Museo Levine del Nuevo Sur.
 
 <!--Banner-->
 
