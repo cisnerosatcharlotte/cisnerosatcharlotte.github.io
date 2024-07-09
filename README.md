@@ -27,6 +27,10 @@ There are four specific groups that will benefit directly from this project:
 -       Charlotte citizens who would be able to access information on services and resources by the light rail in Spanish and English.
 -       The global community who would be able to access the information on The Levine Museum of the New South website.
 
+# Need help?
+
+On July 1, 2024, Melissa Sagastume kindly produced a "How to Use" GitHub video tutorial. [Click here](https://youtu.be/ETfuR3FKebY) to watch her video explaining the basics of GitHub and how to modify the [latinXrail](https://latinxrail.com) website from its GitHub repository.
+
 # Greene Lab's Lab Website Template
 
 We are thankful to the Greene Lab's Lab Website Template. Our code is strongly based on their.
